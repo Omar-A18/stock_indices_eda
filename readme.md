@@ -15,22 +15,6 @@ Este proyecto realiza un análisis exploratorio de los diez índices bursátiles
 - 🇯🇵 Nikkei 225
 - 🇭🇰 Hang Seng Index
 
-## 📦 Estructura del Proyecto
-
-project/
-│
-├── data/
-│ ├── raw/ # Datos originales descargados de Yahoo Finance
-│ └── processed/ # Datos procesados y enriquecidos
-│
-├── plots/ # Gráficos en resolución 4K
-│
-├── notebooks/ # (Opcional) Jupyter notebooks exploratorios
-│
-├── main.py # Script principal de análisis
-└── README.md # Documentación del proyecto
-
-
 ## 🧰 Tecnologías Usadas
 
 - **Python**
